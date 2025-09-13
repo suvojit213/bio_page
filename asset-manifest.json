@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bio_page/static/css/main.32220151.css",
-    "main.js": "/bio_page/static/js/main.dc3866da.js",
+    "main.js": "/bio_page/static/js/main.b82addc5.js",
     "static/media/suvojeet.jpg": "/bio_page/static/media/suvojeet.0169e56f4ebc8069d18b.jpg",
     "index.html": "/bio_page/index.html",
     "main.32220151.css.map": "/bio_page/static/css/main.32220151.css.map",
-    "main.dc3866da.js.map": "/bio_page/static/js/main.dc3866da.js.map"
+    "main.b82addc5.js.map": "/bio_page/static/js/main.b82addc5.js.map"
   },
   "entrypoints": [
     "static/css/main.32220151.css",
-    "static/js/main.dc3866da.js"
+    "static/js/main.b82addc5.js"
   ]
 }
